@@ -9,7 +9,7 @@
 
 <div>
 <a href="http://3dvision.princeton.edu/" target="_self">
-<img src="logo.png" style="margin-top: 5px;" height="100px">
+<img src="logo.png" style="margin-top: 5px;" height="80px">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
