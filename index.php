@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- saved from url=(0045)http://3dvision.princeton.edu/people/shurans/ -->
 <html class="gr__3dvision_princeton_edu"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Shuran Song</title>
+	<title>Linnan Wang</title>
 	<link rel="stylesheet" type="text/css" href="pvg.css">
 </head>
 <body data-gr-c-s-loaded="true">
@@ -9,7 +9,7 @@
 
 <div>
 <a href="http://3dvision.princeton.edu/" target="_self">
-<img src="logo.png" style="margin-top: 5px;" height="80px" width="289px">
+<img src="logo.png" style="margin-top: 5px;" height="100px">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
