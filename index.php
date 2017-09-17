@@ -5,7 +5,6 @@
 	<link rel="stylesheet" type="text/css" href="pvg.css">
 </head>
 <body data-gr-c-s-loaded="true">
-<script type="text/javascript" src="header.js"></script>
 
 <div>
 <a href="http://3dvision.princeton.edu/" target="_self">
