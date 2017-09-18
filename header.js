@@ -6,6 +6,6 @@ document.write('\
 <div class="icon"><a href="index.html"><img src="home.svg">Home</a></div>\
 <div class="icon"><a href="index.html"><img src="research.svg">Research</a></div>\
 <div class="icon"><a href="index.html"><img src="publications.svg">Publications</a></div>\
-<div class="icon"><a href="index.html"><img src="hobby.svg">People</a></div>\
+<div class="icon"><a href="index.html"><img src="hobby.svg">Hobbies</a></div>\
 </div>\
 ');
